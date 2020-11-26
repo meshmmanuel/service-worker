@@ -1,5 +1,5 @@
 // Service Worker Toolbox
-importScripts('js/lib/sw-toolbox/sw-toolbox.js');
+importScripts('https://cdnjs.cloudflare.com/ajax/libs/sw-toolbox/3.6.1/sw-toolbox.js');
 // Files to precache
 const precacheFiles = [
     './',
